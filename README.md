@@ -19,6 +19,7 @@ ajax 통신 기반의 html을 크롤링하는 토이 프로젝트
 
 
   * Response를 보니 Nttid를 ifNttid로 인코딩하는 코드가 내부에서 동작하고 있었다
+    
   ![image](https://github.com/zzakjista/ajax_crawler/assets/102800414/a0a18c23-160a-478c-a31c-aa6dc186de83)
 
 
